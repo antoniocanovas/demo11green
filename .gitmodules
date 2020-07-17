@@ -1,0 +1,4 @@
+[submodule "SerpentCS_Contributions"]
+	path = SerpentCS_Contributions
+	url = https://github.com/JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 11.0
